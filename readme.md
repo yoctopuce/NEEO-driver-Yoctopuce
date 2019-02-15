@@ -2,7 +2,7 @@
 
 This driver allows to control some devices from the Yoctopuce line-up through a [NEEO universal remote](http://www.neeo.com) and a IP connection. Supported functions are
   - Sensor ([All Yoctopuce devices featuring a sensor](http://www.yoctopuce.com/EN/products/category/usb-environmental-sensors))
-  - Relay ([Yocto-Relay](http://www.yoctopuce.com/EN/usb-actuators/yocto-relay), [Yocto-PowerRelay](http://www.yoctopuce.com/EN/products/yocto-powerrelay-v3), [Yocto-MaxiPowerRelay](http://www.yoctopuce.com/EN/products/yocto-maxipowerrelay), [Yocto-MaxiCoupler](http://www.yoctopuce.com/EN/products/yocto-maxicoupler) )
+  - Relay ([Yocto-Relay](http://www.yoctopuce.com/EN/products/yocto-relay), [Yocto-PowerRelay](http://www.yoctopuce.com/EN/products/yocto-powerrelay-v3), [Yocto-MaxiPowerRelay](http://www.yoctopuce.com/EN/products/yocto-maxipowerrelay), [Yocto-MaxiCoupler](http://www.yoctopuce.com/EN/products/yocto-maxicoupler) )
   - Servo ([Yocto-Servo](http://www.yoctopuce.com/EN/products/yocto-servo))
   - PwmOutput ( [Yocto-PWM-tx](http://www.yoctopuce.com/EN/products/yocto-pwm-tx))
   - VoltageOutput ([Yocto-0-10v-tx](http://www.yoctopuce.com/EN/products/yocto-0-10v-tx))
