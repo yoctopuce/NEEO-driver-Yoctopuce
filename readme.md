@@ -1,4 +1,4 @@
-# NEEO_Driver-Yoctopuce
+# NEEO-Driver-Yoctopuce
 
 This driver allows to control some devices from the Yoctopuce line-up through a [NEEO universal remote](http://www.neeo.com) and a IP connection. Supported functions are
   - Sensor ([All Yoctopuce devices featuring a sensor](http://www.yoctopuce.com/EN/products/category/usb-environmental-sensors))
