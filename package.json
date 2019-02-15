@@ -1,0 +1,20 @@
+{
+  "name": "neeo_driver-yoctopuce",
+  "version": "0.0.1",
+  "description": "NEEO driver for Yoctopuce sensors and actuators",
+  "main": "index.js",
+  "author": "Yoctopuce Sarl",
+  "private": false,
+  "dependencies": {
+    "neeo-sdk": "0.51.13",
+    "yoctolib-es2017": "^1.10.34131"
+  },
+ 
+  "engines": {
+    "node": ">=7.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoctopuce/NEEO-driver-yoctopuce.git"
+  }
+}
